@@ -32,7 +32,7 @@ This project is a clone of the classic *Geometry Wars* game.  The game challenge
   - All of the entities that are currently active can be viewed/removed in the GUI.
 
 - **Configuration Driven:**  
-  - Game parameters (player/enemy speed, bullet size/speed/lifespan, spawn rates, colors, etc.) are defined in an external configuration file, enabling easy tuning without recompiling.
+  - Game parameters (player/enemy speed, bullet size/speed/lifespan, spawn rates, colors, etc.) are defined in an external configuration file, enabling easy tuning without refactoring.
 
 ---
 
