@@ -16,8 +16,7 @@ This project is a clone of the classic *Geometry Wars* game.  The game challenge
   - Control a rotating geometric shape using WASD keys.
   - Movement is confined within the game window boundaries.
   - Shoot bullets using the left-click button on the mouse.
-  - The game can be paused with the P key.
-  - The game can be closed with the ESC key
+  - The game can be paused with the P key, and closed with the ESC key.
 
 - **Enemies:**  
   - Various polygonal enemies spawn at random intervals and locations.
@@ -29,8 +28,8 @@ This project is a clone of the classic *Geometry Wars* game.  The game challenge
   - The score can be seen in the left corner. The player's highest score is shown in the top right corner (preserved even after exit)
  
 - **GUI:**  
-  - s
-  - 
+  - All of the systems in the game can be toggled through the GUI
+  - All of the entities that are currently active can be viewed/removed in the GUI.
 
 - **Configuration Driven:**  
   - Game parameters (player/enemy speed, bullet size/speed/lifespan, spawn rates, colors, etc.) are defined in an external configuration file, enabling easy tuning without recompiling.
@@ -51,10 +50,10 @@ This project is a clone of the classic *Geometry Wars* game.  The game challenge
   - Integrated a GUI for debugging and real-time parameter adjustment.
 
 - **Entity-Component-System (ECS) Architecture:**  
-  - The game is structured using ECS, separating data (components) from logic (systems), as taught in COMP 4300.
+  - The game is structured using ECS, separating data (entities + components) from logic (systems).
 
 - **Data-Oriented Design:**  
-  - All tunable parameters are externalized in a config file, promoting rapid iteration and best practices in game development.
+  - All tunable parameters are externalized in a config file, promoting easy configuration/testing.
 
 ---
 
