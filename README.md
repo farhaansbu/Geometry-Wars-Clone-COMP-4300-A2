@@ -8,6 +8,10 @@ A Geometry Wars-inspired arcade shooter built in C++ using SFML and ImGui, devel
 
 This project is a clone of the classic *Geometry Wars* game.  The game challenges players to control a geometric shape in order to dodge and destroy waves of enemy polygons All graphics are rendered using SFML's primitive shapes, with no textures or external assets, emphasizing fundamental game programming and engine architecture principles.
 
+
+<video src="https://github.com/user-attachments/assets/ecd98c6c-4a0f-4ad1-ba53-8d1c663ae87c" width="200" controls></video>
+
+
 ---
 
 ## **Gameplay Features**
