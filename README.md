@@ -2,6 +2,8 @@
 
 A Geometry Wars-inspired arcade shooter built in C++ using SFML and ImGui, developed as part of the COMP 4300 Game Programming course (available online) at Memorial University.
 
+<img width="958" height="526" alt="github_screenshot" src="https://github.com/user-attachments/assets/1ffac8e8-bd9f-4e5f-9d5c-fa9f926807d0" />
+
 ---
 
 ## **Overview**
