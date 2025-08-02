@@ -67,5 +67,6 @@ This project is a simple game inspired by the classic *Geometry Wars* game.  The
 - **`std::string` was used in places where an `enum` would suffice**
 - **Using a JSON/YAML format for the config file would be a lot better and more clearer instead of a .txt**
 - **the enemies can spawn right on top of the player**
+- **code can be written a bit cleaner**
   
 
